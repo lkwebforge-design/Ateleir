@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "ATELIER — Contemporary Fashion" },
+    { "path": "/products/:slug", "title": "ATELIER — Product" }
+  ]
+}
